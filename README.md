@@ -10,4 +10,4 @@ In order to use geo location Mapbox, follow this steps
 please note that this token doesn't work and it just seves as a guide on how the token should look like.
 5. Run the project and Deploy it to use.
 
-&copy 2022 @Wisdomn200
+2022 @Wisdomn200
