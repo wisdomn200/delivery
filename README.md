@@ -2,6 +2,7 @@
 Deliver products and services to anywhere in the world using the Deliver app.
 
 In order to use geo location Mapbox, follow this steps
+
 Go to the website: https://www.mapbox.com/ and create a free account.
 Go to your account dashboard and at the bottom of the page you will find a section named “Access tokens”.
 Copy the default public access token and save it in <PUBLIC API>
