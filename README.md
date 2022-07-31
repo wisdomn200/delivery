@@ -1,5 +1,5 @@
 # delivery
-Search for specify location anywhere in the world using the app.
+Deliver Itemss location anywhere in the world using the Deliver app.
 
 In order to use geo location follow this steps
 Go to the website: https://www.mapbox.com/ and create a free account.
